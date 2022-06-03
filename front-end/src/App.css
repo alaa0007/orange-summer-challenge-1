@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+}
+
+.main-pages{
+    flex: 4;
+}
